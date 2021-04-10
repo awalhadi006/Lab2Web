@@ -57,7 +57,7 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
 <h3> Pertanyaan dan Tugas </h3>
 <ol>
   <li> Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i> yang diberikan pada file terpisah dari modul ini.
-  <li> Apa perbedaan pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>Intro h1 {...}?</b> berikan penjelasannya!
+  <li> Apa perbedaan pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>#intro h1 {...}?</b> berikan penjelasannya!
   <li> Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
   <li> Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikut penjelasan dan contohnya! (&lt;p id="paragraf-1" class="text-paragraf"&gt;)
   </li></ol>
@@ -65,6 +65,8 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
 <h3> Jawaban </h3>
 <ol>
   <li> Hasil eksperimen dalam mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i>.
-  <li> Perbedaan antara deklarasian CSS elemen <b>h1 {...}</b> dengan <b>#Intro h1 {...}?</b>
+  <li> Perbedaan antara deklarasian CSS elemen <b>h1 {...}</b> dengan <b>#Intro h1 {...}?</b> adalah pada penggunaan tanda "#", dalam penggunaan "#" disebut juga ID Selector, ID Selector digunakan untuk menyeleksi elemen berdasarkan ID tertentu. Contoh di dalam css: #intro h1 {text-align: left}. Contoh tersebut menyeleksi element yang memiliki attribute ID dengan value "intro h1" agar tulisannya rata kiri didalam html. Dengan catatan sebuah halaman atau dokumen tidak boleh terdapat lebih dari satu <i>id</i> dengan value yang sama.
+
+
   
 </li></ol></p>
