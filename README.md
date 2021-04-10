@@ -55,6 +55,7 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
 </p>
 
 <h3> Pertanyaan dan Tugas </h3>
+<p>
 <ol>
   <li> Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i> yang diberikan pada file terpisah dari modul ini.
   <li> Apa perbedaan pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>#intro h1 {...}?</b> berikan penjelasannya!
@@ -65,6 +66,9 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
 <h3> Jawaban </h3>
 <ol>
   <li> Berikut Hasil eksperimen dalam mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i>.
+    
+![Screenshot_58](https://user-images.githubusercontent.com/24362384/114273478-5e91d000-9a44-11eb-88be-48d2f2713f39.png)
+
   <li> Perbedaan antara pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>#Intro h1 {...}?</b> adalah pada penggunaan tanda "#", dalam penggunaan "#" disebut juga ID Selector, ID Selector digunakan untuk menyeleksi elemen berdasarkan ID tertentu. Contoh di dalam css: #intro h1 {text-align: left}. Contoh tersebut menyeleksi element yang memiliki attribute ID dengan value "intro h1" agar tulisannya rata kiri didalam html. Dengan catatan sebuah halaman atau dokumen tidak boleh terdapat lebih dari satu <i>id</i> dengan value yang sama.
   <li> Deklarasi yang lebih dulu ditampilkan pada browser saat menggunakan deklarasi CSS secara internal, eksternal, dan inline adalah deklarasi CSS secara inline. karena inline merupakan deklarasi yang ditulis langsung pada atribut elemen HTML.<br>
   Contoh jika hanya menggunakan deklarasi eksternal:
