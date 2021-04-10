@@ -64,8 +64,21 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
 
 <h3> Jawaban </h3>
 <ol>
-  <li> Hasil eksperimen dalam mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i>.
-  <li> Perbedaan antara deklarasian CSS elemen <b>h1 {...}</b> dengan <b>#Intro h1 {...}?</b> adalah pada penggunaan tanda "#", dalam penggunaan "#" disebut juga ID Selector, ID Selector digunakan untuk menyeleksi elemen berdasarkan ID tertentu. Contoh di dalam css: #intro h1 {text-align: left}. Contoh tersebut menyeleksi element yang memiliki attribute ID dengan value "intro h1" agar tulisannya rata kiri didalam html. Dengan catatan sebuah halaman atau dokumen tidak boleh terdapat lebih dari satu <i>id</i> dengan value yang sama.
+  <li> Berikut Hasil eksperimen dalam mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i>.
+  <li> Perbedaan antara pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>#Intro h1 {...}?</b> adalah pada penggunaan tanda "#", dalam penggunaan "#" disebut juga ID Selector, ID Selector digunakan untuk menyeleksi elemen berdasarkan ID tertentu. Contoh di dalam css: #intro h1 {text-align: left}. Contoh tersebut menyeleksi element yang memiliki attribute ID dengan value "intro h1" agar tulisannya rata kiri didalam html. Dengan catatan sebuah halaman atau dokumen tidak boleh terdapat lebih dari satu <i>id</i> dengan value yang sama.
+  <li> Deklarasi yang lebih dulu ditampilkan pada browser saat menggunakan deklarasi CSS secara internal, eksternal, dan inline adalah deklarasi CSS secara inline. karena inline merupakan deklarasi yang ditulis langsung pada atribut elemen HTML.
+  Contoh jika hanya menggunakan deklarasi eksternal:
+
+![Screenshot_54](https://user-images.githubusercontent.com/24362384/114263408-769b2c80-9a0f-11eb-8bdc-a1920e8e26a6.png)
+
+  Contoh jika menggunakan deklarasi internal dan eksternal:
+  
+![Screenshot_55](https://user-images.githubusercontent.com/24362384/114263419-8a469300-9a0f-11eb-85f3-9f6f173f4316.png)
+
+  Contoh jika menggunakan deklarasi internal, eksternal, dan inline:
+  
+![Screenshot_56](https://user-images.githubusercontent.com/24362384/114263431-992d4580-9a0f-11eb-9fff-02f0ee6211c0.png)
+
 
 
   
