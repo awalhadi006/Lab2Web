@@ -42,3 +42,13 @@ Kemudian tambahkan tag &lt;link&gt; untuk merujuk file css yang sudah dibuat pad
 Selanjutnya refresh kembali browsernya agar terlihat perubahannya.
 
 ![Screenshot_51](https://user-images.githubusercontent.com/24362384/114257951-84d85100-99ed-11eb-9a45-93525b339924.png)
+
+  <li><b>Menambahkan CSS Selector</b><br>
+  Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Buka file <b>"style_eksternal.css"</b> yang telah kita buat sebelumnya, lalu tambahkan kode sebagai berikut.
+  
+![Screenshot_52](https://user-images.githubusercontent.com/24362384/114258085-69ba1100-99ee-11eb-8bed-1e31a9769de7.png)
+
+Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlihat perubahannya.
+
+![Screenshot_53](https://user-images.githubusercontent.com/24362384/114258113-92420b00-99ee-11eb-98cf-90b73a20c247.png)
+
