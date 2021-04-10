@@ -51,4 +51,13 @@ Selanjutnya refresh kembali browsernya agar terlihat perubahannya.
 Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlihat perubahannya.
 
 ![Screenshot_53](https://user-images.githubusercontent.com/24362384/114258113-92420b00-99ee-11eb-98cf-90b73a20c247.png)
+</li></ol>
+</p>
 
+<h3> Pertanyaan dan Tugas </h3>
+<ol>
+  <li> Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i> yang diberikan pada file terpisah dari modul ini.
+  <li> Apa perbedaan pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>Intro h1 {...}?</b> berikan penjelasannya!
+  <li> Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+  <li> Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikut penjelasan dan contohnya! (&lt;p id="paragraf-1" class="text-paragraf"&gt;)
+  </li></ol>
