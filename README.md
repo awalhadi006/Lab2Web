@@ -66,7 +66,7 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
 <ol>
   <li> Berikut Hasil eksperimen dalam mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada <i>CSS Cheat Sheet</i>.
   <li> Perbedaan antara pendeklarasian CSS elemen <b>h1 {...}</b> dengan <b>#Intro h1 {...}?</b> adalah pada penggunaan tanda "#", dalam penggunaan "#" disebut juga ID Selector, ID Selector digunakan untuk menyeleksi elemen berdasarkan ID tertentu. Contoh di dalam css: #intro h1 {text-align: left}. Contoh tersebut menyeleksi element yang memiliki attribute ID dengan value "intro h1" agar tulisannya rata kiri didalam html. Dengan catatan sebuah halaman atau dokumen tidak boleh terdapat lebih dari satu <i>id</i> dengan value yang sama.
-  <li> Deklarasi yang lebih dulu ditampilkan pada browser saat menggunakan deklarasi CSS secara internal, eksternal, dan inline adalah deklarasi CSS secara inline. karena inline merupakan deklarasi yang ditulis langsung pada atribut elemen HTML.
+  <li> Deklarasi yang lebih dulu ditampilkan pada browser saat menggunakan deklarasi CSS secara internal, eksternal, dan inline adalah deklarasi CSS secara inline. karena inline merupakan deklarasi yang ditulis langsung pada atribut elemen HTML.<br>
   Contoh jika hanya menggunakan deklarasi eksternal:
 
 ![Screenshot_54](https://user-images.githubusercontent.com/24362384/114263408-769b2c80-9a0f-11eb-8bdc-a1920e8e26a6.png)
@@ -79,6 +79,11 @@ Selanjutnya simpan file tersebut kemudian refresh kembali browsernya agar terlih
   
 ![Screenshot_56](https://user-images.githubusercontent.com/24362384/114263431-992d4580-9a0f-11eb-9fff-02f0ee6211c0.png)
 
+  <li>Perbedaan dari selector class dan id adalah selector class di panggil pada css dengan menggunakan tanda titik ".", dan id di panggil pada css menggunakan tanda pagar "#". Lalu perbedaan lainnya adalah selector class dapat di berikan pada banyak element html dan dapat di panggil sekaligus, sedangkan id hanya dapat bekerja pada satu element saja.
+  Jika nilai pada selector id dan class sama, maka yang akan muncul adalah nilai pada selector id.
+  Contohnya :
+  
+  ![Screenshot_57](https://user-images.githubusercontent.com/24362384/114273401-12df2680-9a44-11eb-9593-92008c649f4f.png)
 
 
   
